@@ -1,2 +1,4 @@
 # intro-to-ai-udacity-1
-These are my updates to AI with Python Udactity Nanodegree. This are my implmentations for Chapter 6.
+These repo is concerned with the AI with Python Udactity Nanodegree. These are my implmentations for Chapter 6.
+
+
